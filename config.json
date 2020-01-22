@@ -1,5 +1,5 @@
 {
-    "email": "mc3dbot@gmail.com",
+    "email": "jan@gloth.org",
     "password": "Jan30052007",
     "cid": "CID_051_Athena_Commando_M_HolidayElf",
     "bid": "BID_289_Banner",
@@ -7,8 +7,8 @@
     "banner": "BRSeason01",
     "banner_colour": "defaultcolor2",
     "level": 265,
-    "bp_tier": -101,
-    "status": "in Lobby",
+    "bp_tier": 101,
+    "status": "24/7 Lobby Bot Made By Push3r on 144 hz Pls Sub To My Youtube Channel @LON3PUSH3R",
     "platform": "PSN",
     "debug": false,
     "friendaccept": true
